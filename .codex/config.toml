@@ -8,4 +8,4 @@
 
 [mcp_servers.azure-devops]
 command = "npx"
-args = ["-y", "@azure-devops/mcp", "<organizacao-azure-devops>", "-d", "core", "work", "work-items"]
+args = ["-y", "@azure-devops/mcp", "engsoft-A-equipe-02", "-d", "core", "work", "work-items"]
